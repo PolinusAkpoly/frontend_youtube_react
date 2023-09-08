@@ -1,0 +1,8 @@
+
+
+1- Signup => inscription des utilisateurs
+2- Signin => connexion des utilisateurs
+3- Guard => protection de certaines pages du site
+4- Upload de video 
+5- Récupération et visualisation des videos 
+6- Lecteur video 

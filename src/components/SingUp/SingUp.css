@@ -1,0 +1,54 @@
+.sign-box{
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
+.sign-box form{
+    background-color: white;
+    padding: 10px;
+    width: 500px;
+
+}
+.form-title{
+    border-bottom: 0.1px solid #ccc;
+    margin: 5px 0;
+}
+.form-row{
+    margin: 15px 0;
+}
+.form-row input{
+    /* height: 45px; */
+    background-color: white;
+    padding: 10px;
+}
+.sign-box .submit-button button{
+    border: none;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(159, 53, 53);
+}
+
+.sign-box i{
+    color: red;
+    font-size: 1.9rem;
+}
+.form-info {
+    font-size: 0.8rem;
+    margin: 5px 0;
+}
+.form-info a {
+    color: red;
+}
+
+.password-eye{
+    right: 15px;
+    top: 5px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .sign-box form{
+        width: 90%;
+    }
+}

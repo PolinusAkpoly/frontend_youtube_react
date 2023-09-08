@@ -1,0 +1,12 @@
+.notfound{
+    background-color: cadetblue;
+    height: 100vh;
+   margin-top: -20px;
+}
+
+.notfound-error{
+text-align: center;
+color: white;
+padding-top: 200px;
+    
+}
